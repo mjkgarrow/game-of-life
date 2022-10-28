@@ -1,4 +1,3 @@
-from curses import keyname
 import sys, pygame
 
 pygame.init()
